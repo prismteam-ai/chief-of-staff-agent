@@ -4,11 +4,11 @@
 
 Executives and operators manage fragmented information across calendars, email accounts, project management tools, and communication platforms. Critical context is often spread across multiple systems, making it difficult to prioritize actions, maintain situational awareness, and respond efficiently.
 
-This initiative creates a **Chief of Staff agent** that consolidates operational and communication data into a unified intelligence layer. The platform leverages the existing **sufi-xyz** agent network architecture to rapidly build and deploy an executive-focused coordination agent that is accessible to non-technical users through Cursor.
+This initiative creates a **Chief of Staff agent** that consolidates operational and communication data into a unified intelligence layer. The platform leverages the existing **soofi-xyz** agent network architecture to rapidly build and deploy an executive-focused coordination agent that is accessible to non-technical users through Cursor.
 
 ## Description
 
-Create a Chief of Staff agent that integrates calendars, email, Asana, and future communication channels into the **sufi-xyz** agent network. This enables executives to:
+Create a Chief of Staff agent that integrates calendars, email, Asana, and future communication channels into the **soofi-xyz** agent network. This enables executives to:
 
 - Centralize communication
 - Receive contextual notifications
@@ -39,7 +39,7 @@ Create a Chief of Staff agent that integrates calendars, email, Asana, and futur
 - Minimize setup complexity for non-technical users
 - Deliver an initial functional prototype within an estimated five-hour implementation scope
 - Demonstrate end-to-end ingestion, retrieval, notification, and response suggestion workflows
-- Document setup instructions for deploying the agent within the sufi-xyz ecosystem
+- Document setup instructions for deploying the agent within the soofi-xyz ecosystem
 - Ensure the platform can scale to additional agents and communication channels in future iterations
 
 ## Goals
