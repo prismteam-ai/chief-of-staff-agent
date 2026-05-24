@@ -1,16 +1,16 @@
 # chief-of-staff-agent
 
-Context;
+##Context;##
 
 Executives and operators manage fragmented information across calendars, email accounts, project management tools, and communication platforms. Critical context is often spread across multiple systems, making it difficult to prioritize actions, maintain situational awareness, and respond efficiently.
 
 This initiative creates a Chief of Staff agent that consolidates operational and communication data into a unified intelligence layer. The platform will leverage the existing sufi-xyz agent network architecture to rapidly build and deploy an executive-focused coordination agent that is accessible to non-technical users through Cursor.
 
-Description;
+##Description;##
 
 Create a Chief of Staff agent that integrates calendars, email, Asana, and future communication channels into the sufi-xyz agent network so that executives can centralize communication, receive contextual notifications, and generate intelligent suggested responses from a unified knowledge graph and RAG system.
 
-Acceptance Criteria;
+##Acceptance Criteria;##
 	•	Use the existing agent network framework from the sufi-xyz GitHub repository.
 	•	Package the solution as a reusable agent within the existing agent ecosystem.
 	•	Connect multiple calendar providers and accounts, including personal and corporate calendars.
