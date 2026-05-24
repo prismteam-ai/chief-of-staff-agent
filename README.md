@@ -18,7 +18,7 @@ Create a Chief of Staff agent that integrates calendars, email, Asana, and futur
 
 ## Key Features & Acceptance Criteria
 
-- Use the existing agent network framework from the [sufi-xyz GitHub repository](https://github.com/sufi-xyz)
+- Use the existing agent network framework from the [soofi-xyz GitHub repository](https://github.com/soofi-xyz)
 - Package the solution as a reusable agent within the existing agent ecosystem
 - Connect multiple calendar providers and accounts (personal + corporate)
 - Aggregate calendar events into a unified timeline view
